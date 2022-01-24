@@ -1,0 +1,15 @@
+{
+  "name": "picazoid",
+  "version": "1.0.0",
+  "description": "Discord image manipulation and generation bot.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "SamosaMan73#4266",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.0.1",
+    "nodemon": "^2.0.7"
+  }
+}
